@@ -22,20 +22,17 @@ The results of the simulation were promising and provided valuable insights into
 ### Car Navigating Through Dense Traffic
 
 In this scenario, the self-driving car was able to navigate through dense traffic without any collisions. The neural network's decision-making capabilities were evident as the car adjusted its speed and direction based on the positions of other vehicles.
-
-![Car Navigating Through Dense Traffic](https://app.noteable.io/gate/api/o/dc3abf1f-9786-4726-ba81-361660c252b3.png)
+![1](https://github.com/mufi2/self_driving_car/assets/120253718/660f2255-c419-4b4d-9bf7-c9316433d985)
 
 ### Car Avoiding an Unexpected Obstacle
 
 When presented with an unexpected obstacle on the road, the self-driving car was able to detect it and make a timely decision to avoid a collision. This showcases the neural network's ability to react to unforeseen challenges in real-time.
-
-![Car Avoiding an Unexpected Obstacle](https://app.noteable.io/gate/api/o/8c44370e-4c4e-4ad3-a65f-f3ed9f129e6f.png)
+![2](https://github.com/mufi2/self_driving_car/assets/120253718/7aa82aef-c907-4261-a76c-401658c06802)
 
 ### Car Making a Decision at an Intersection
 
 At intersections, the self-driving car demonstrated its capability to assess the situation and make decisions on whether to proceed, stop, or turn. The neural network's training played a crucial role in ensuring that the car made safe and efficient decisions at intersections.
-
-![Car Making a Decision at an Intersection](https://app.noteable.io/gate/api/o/b1e27c51-1eeb-400f-b9ba-5d1f91699467.png)
+![3](https://github.com/mufi2/self_driving_car/assets/120253718/67941a46-ae87-4057-ba65-fc237c464a15)
 
 ## Discussion
 
